@@ -6,7 +6,7 @@ final class User {
   public function getGender() : string {
     return "MALE";
   }
-  public function getAge() : number {
+  public function getAge() : int {
     $today = getdate();
     if($today["mday"] === 1 && $today["mon"] === 1)
       return $today["year"] - 2005 - 1;
