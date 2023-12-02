@@ -16,7 +16,7 @@ final class User {
 ```
 
 <div style="display: inline" align="center">
-  <img src="https://img.shields.io/github/followers/RyanMatheusRamello?style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/RyanPhpJs?style=for-the-badge">
 </div>
 
 <br>
